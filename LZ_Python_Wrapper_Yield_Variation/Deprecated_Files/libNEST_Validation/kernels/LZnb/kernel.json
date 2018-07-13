@@ -1,0 +1,14 @@
+{
+ "display_name": "LZnb",
+ "language": "python",
+ "argv": [
+  "//anaconda2/bin/python",
+  "-m",
+  "IPython.kernel",
+  "-f",
+  "{connection_file}"
+ ],
+ "env": {
+    "LD_LIBRARY_PATH": "/global/common/pdsf_sl6/usg/software/ROOT/5.34.10/lib:/global/common/pdsf_sl6/usg/software/boost/1.54.0/lib"
+ }
+}
